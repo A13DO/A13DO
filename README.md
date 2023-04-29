@@ -5,8 +5,8 @@
  
 - While I am currently studying Management Information Systems, I am not limited to this field and enjoy exploring other areas of development as well. In fact, I am particularly interested in web development and find it fascinating how it offers endless opportunities for creativity and innovation.
 
-- During my free time, I enjoy playing video games, listening to music, and watching movies, TV shows, and anime. I find that these hobbies help me relax and recharge so I can continue to be productive and focused. 🎧 <a href="https://open.spotify.com/user/nxp41c270ljzha4zppa0iro9d?si=e00d3b2e66944d87">Spotify profile</a>,
-🍿 <a href="https://letterboxd.com/Abdelrhman_Alaa/">Letterboxd profile</a> 😊.
+- During my free time, I enjoy playing video games, listening to music, and watching movies, TV shows, and anime. I find that these hobbies help me relax and recharge so I can continue to be productive and focused. -🎧 <a href="https://open.spotify.com/user/nxp41c270ljzha4zppa0iro9d?si=e00d3b2e66944d87">Spotify profile</a>,
+-🍿 <a href="https://letterboxd.com/Abdelrhman_Alaa/">Letterboxd profile</a> 😊.
 
 - 🌱 I’m currently learning Angular, C++
 
