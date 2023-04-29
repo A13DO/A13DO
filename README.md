@@ -16,7 +16,7 @@
 - 📫 How to reach me: <a href="https://discord.com/users/700426889575006300">Discord</a>
 ##### More Links
 -🎧 <a href="https://open.spotify.com/user/nxp41c270ljzha4zppa0iro9d?si=e00d3b2e66944d87">Spotify profile</a>,
--🍿 <a href="https://letterboxd.com/Abdelrhman_Alaa/">Letterboxd profile</a> 😊.
+-🍿 <a href="https://letterboxd.com/Abdelrhman_Alaa/">Letterboxd profile</a>.
 <!--
 **A13DO/A13DO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
