@@ -1,6 +1,8 @@
 ### Hi there 
-- My name is Abdelrahman, but you can call me Abdo. I'm a 19-year-old student from Egypt with a passion for development. I've been learning and practicing web development for the past two years and have already completed some projects using HTML CSS, JavaScript, Sass, Bootstrap and Angular 
+- My name is Abdelrahman, but you can call me Abdo. I'm a 19-year-old student from Egypt with a passion for development. I've been learning and practicing web development for the past two years and have already completed some projects I have experience front-end technologies such as HTML CSS, JavaScript, Sass, Bootstrap. I also have experience working with back-end technologies, such as Node.js and Express, and integrating with RESTful APIs.
 
+<!-- -   using HTML CSS, JavaScript, Sass, Bootstrap and Angular  -->
+ 
 - While I am currently studying Management Information Systems, I am not limited to this field and enjoy exploring other areas of development as well. In fact, I am particularly interested in web development and find it fascinating how it offers endless opportunities for creativity and innovation.
 
 - During my free time, I enjoy playing video games, listening to music, and watching movies, TV shows, and anime. I find that these hobbies help me relax and recharge so I can continue to be productive and focused.
