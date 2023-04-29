@@ -1,5 +1,5 @@
 ### Hi there 
- my name is Abdelrahman, but you can call me Abdo. I'm a 19-year-old student from Egypt with a passion for development. I've been learning and practicing web development for the past two years and have already completed some projects using HTML CSS, JavaScript, Sass, Bootstrap, Angular
+ My name is Abdelrahman, but you can call me Abdo. I'm a 19-year-old student from Egypt with a passion for development. I've been learning and practicing web development for the past two years and have already completed some projects using HTML CSS, JavaScript, Sass, Bootstrap, Angular
 
 While I am currently studying Management Information Systems, I am not limited to this field and enjoy exploring other areas of development as well. In fact, I am particularly interested in web development and find it fascinating how it offers endless opportunities for creativity and innovation.
 
