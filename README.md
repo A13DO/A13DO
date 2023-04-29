@@ -3,7 +3,7 @@
 
 <!-- -   using HTML CSS, JavaScript, Sass, Bootstrap and Angular  -->
  
-- While I am currently studying Management Information Systems, I am not limited to this field and enjoy exploring other areas of development as well. In fact, I am particularly interested in web development and find it fascinating how it offers endless opportunities for creativity and innovation.
+- While I am currently studying Management Information Systems, I am not limited to this field and enjoy exploring other areas of development as well. In fact, I am particularly interested in web development and find it fascinating how it offers endless opportunities for creativity and innovation. and also I work part-time to gain practical experience and supplement my income. Balancing work and studying can be challenging, , but I find ways to handle it. By staying organized, managing my time effectively, and prioritizing my tasks.
 
 - During my free time, I enjoy playing video games, listening to music, and watching movies, TV shows, and anime. I find that these hobbies help me relax and recharge so I can continue to be productive and focused. 
 
