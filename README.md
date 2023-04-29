@@ -6,8 +6,7 @@
 - While I am currently studying Management Information Systems, I am not limited to this field and enjoy exploring other areas of development as well. In fact, I am particularly interested in web development and find it fascinating how it offers endless opportunities for creativity and innovation.
 
 - During my free time, I enjoy playing video games, listening to music, and watching movies, TV shows, and anime. I find that these hobbies help me relax and recharge so I can continue to be productive and focused. 
--🎧 <a href="https://open.spotify.com/user/nxp41c270ljzha4zppa0iro9d?si=e00d3b2e66944d87">Spotify profile</a>,
--🍿 <a href="https://letterboxd.com/Abdelrhman_Alaa/">Letterboxd profile</a> 😊.
+
 
 - 🌱 I’m currently learning Angular, C++
 
@@ -15,7 +14,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A13DO)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: <a href="https://discord.com/users/700426889575006300">Discord</a>
-
+##### More Links
+-🎧 <a href="https://open.spotify.com/user/nxp41c270ljzha4zppa0iro9d?si=e00d3b2e66944d87">Spotify profile</a>,
+-🍿 <a href="https://letterboxd.com/Abdelrhman_Alaa/">Letterboxd profile</a> 😊.
 <!--
 **A13DO/A13DO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
