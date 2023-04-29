@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Angular, C++
 - 📫 How to reach me: <a href="https://discord.com/users/700426889575006300">Discord</a>
 
-
+<br>
 - Bruh 😪
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A13DO)](https://github.com/anuraghazra/github-readme-stats)
 <!--
