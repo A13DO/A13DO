@@ -1,4 +1,9 @@
 ### Hi there 
+my name is Abdelrahman, but you can call me Abdo. I'm a 19-year-old student from Egypt, currently studying Management Information Systems. I've always had a passion for coding, and I've been putting my skills to use for the past two years.
+
+In addition to coding, I'm a big fan of gaming, music, movies, TV shows, and anime. I find that these hobbies help me relax and unwind after a long day of work and study.
+
+
 - 🌱 I’m currently learning Angular, C++
 
 #### goofy ahh stats 😪
