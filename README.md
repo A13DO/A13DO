@@ -1,8 +1,9 @@
 ### Hi there 
-my name is Abdelrahman, but you can call me Abdo. I'm a 19-year-old student from Egypt, currently studying Management Information Systems. I've always had a passion for coding, and I've been putting my skills to use for the past two years.
+ my name is Abdelrahman, but you can call me Abdo. I'm a 19-year-old student from Egypt with a passion for development. I've been learning and practicing web development for the past two years and have already completed some projects using HTML CSS, JavaScript, Sass, Bootstrap, Angular
 
-In addition to coding, I'm a big fan of gaming, music, movies, TV shows, and anime. I find that these hobbies help me relax and unwind after a long day of work and study.
+While I am currently studying Management Information Systems, I am not limited to this field and enjoy exploring other areas of development as well. In fact, I am particularly interested in web development and find it fascinating how it offers endless opportunities for creativity and innovation.
 
+During my free time, I enjoy playing video games, listening to music, and watching movies, TV shows, and anime. I find that these hobbies help me relax and recharge so I can continue to be productive and focused.
 
 - 🌱 I’m currently learning Angular, C++
 
