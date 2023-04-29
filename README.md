@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Angular, C++
-
+- 📫 How to reach me: https://discord.com/users/700426889575006300
 
 <!--
 **A13DO/A13DO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
