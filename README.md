@@ -8,7 +8,7 @@
 - During my free time, I enjoy playing video games, listening to music, and watching movies, TV shows, and anime. I find that these hobbies help me relax and recharge so I can continue to be productive and focused. 
 
 
-- 🌱 I’m currently learning Angular, C++
+- 🌱 I’m currently learning C++, practicing Angular.
 
 #### goofy ahh stats 😪
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A13DO)](https://github.com/anuraghazra/github-readme-stats)
