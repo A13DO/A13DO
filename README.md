@@ -1,5 +1,5 @@
 ### Hi there 
-- My name is Abdelrahman, but you can call me Abdo. I'm a 19-year-old student from Egypt , and I'm passionate about development. Over the past year, I've been learning and practicing web development, and I've already completed several projects. I have experience front-end technologies such as HTML CSS, JavaScript, Sass, Bootstrap and Angular. I also have experience working with back-end technologies, such as Node.js and Express, and integrating with RESTful APIs.
+- My name is Abdelrahman, but you can call me Abdo. I'm a 20-year-old student from Egypt , and I'm passionate about development. Over the past year, I've been learning and practicing web development, and I've already completed several projects. I have experience front-end technologies such as HTML CSS, JavaScript, Sass, Bootstrap and Angular. I also have experience working with back-end technologies, such as Node.js and Express, and integrating with RESTful APIs.
 
 <!-- -   using HTML CSS, JavaScript, Sass, Bootstrap and Angular  -->
  
