@@ -10,8 +10,14 @@
 
 - 🌱 I’m currently learning C++, practicing Angular.
 
-#### goofy ahh stats 😪
+#### stats
+<details>
+<summary>Click to expand GitHub Stats</summary>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A13DO)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
 
 - 📫 How to reach me: <a href="https://discord.com/users/700426889575006300">Discord</a>
 ##### More Links
