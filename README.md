@@ -5,7 +5,7 @@
  
 - While I am currently studying Management Information Systems, I am not limited to this field and enjoy exploring other areas of development as well. also I work part-time to gain practical experience and supplement my income. Balancing work and studying can be challenging, , but I find ways to handle it. By staying organized, managing my time effectively, and prioritizing my tasks.
 
-- During my free time, I enjoy playing video games, listening to music, and watching movies, TV shows, and anime. I find that these hobbies help me relax and recharge so I can continue to be productive and focused. 
+- During my free time, I enjoy playing video games, and watching movies, TV shows, and anime. I find that these hobbies help me relax and recharge so I can continue to be productive and focused. 
 
 
 - 🌱 I’m currently learning C++, practicing Angular.
@@ -16,10 +16,10 @@
 - 📫 How to reach me: <a href="https://discord.com/users/700426889575006300">Discord</a>
 ##### More Links
 - 🎧 <a href="https://open.spotify.com/user/nxp41c270ljzha4zppa0iro9d?si=e00d3b2e66944d87">Spotify profile</a>,
-- 🍿 <a href="https://letterboxd.com/Abdelrhman_Alaa/">Letterboxd profile</a>.
+
 <!--
 **A13DO/A13DO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🍿 <a href="https://letterboxd.com/Abdelrhman_Alaa/">Letterboxd profile</a>.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
