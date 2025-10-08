@@ -2,8 +2,8 @@
 My name is Abdelrahman, I'm passionate about development. Over the past years, I've been learning and practicing web development, and I've already completed several projects. I have experience front-end technologies such as HTML CSS, JavaScript, Sass, Bootstrap and Angular. I also have experience working with back-end technologies, such as Node.js and Express, and integrating with RESTful APIs.
 
 <!-- -   using HTML CSS, JavaScript, Sass, Bootstrap and Angular  -->
-## About Me 👀
-While I am currently studying Management Information Systems, I am not limited to this field and enjoy exploring other areas of development as well. also I work part-time to gain practical experience and supplement my income. Balancing work and studying can be challenging, , but I find ways to handle it. By staying organized, managing my time effectively, and prioritizing my tasks.
+<!-- ## About Me 👀
+While I am currently studying Management Information Systems, I am not limited to this field and enjoy exploring other areas of development as well. also I work part-time to gain practical experience and supplement my income. Balancing work and studying can be challenging, , but I find ways to handle it. By staying organized, managing my time effectively, and prioritizing my tasks. -->
 
 
 ## Languages and Tools 🛠
